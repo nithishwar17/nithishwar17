@@ -1,83 +1,85 @@
 <div align="center">
 
-# Hey 👋, I'm Nithishwar
+# 𝙉𝙄𝙏𝙃𝙄𝙎𝙃𝙒𝘼𝙍 𝙏
 
-### Software Developer • Problem Solver • Lifelong Learner
+### Turning ideas into software, one commit at a time.
 
-> Building technology that creates real-world impact.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Real-World+Applications;Exploring+AI+%26+Cloud;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate software developer who enjoys transforming ideas into reliable and scalable solutions.
+I'm **Nithishwar**, a developer passionate about building meaningful digital experiences and solving real-world problems through technology.
 
-- 💻 Passionate about software development and innovation
-- 🌱 Continuously learning and improving my technical skills
-- 🔍 Exploring Cloud Computing, Artificial Intelligence, and Modern Web Technologies
-- 🤝 Open to collaboration on impactful projects
-- 🎯 Focused on clean code, performance, and user experience
+- 🚀 Creating scalable and efficient software solutions
+- 🌱 Continuously expanding my knowledge and skills
+- 💡 Interested in Full-Stack Development, AI, and Cloud Computing
+- 🤝 Open to collaboration and innovative projects
+- 🎯 Focused on clean architecture and maintainable code
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-### Frontend
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Mission
 
 ```text
-✓ Building practical software solutions
-✓ Learning advanced backend development
-✓ Exploring AI-powered applications
-✓ Improving system design skills
-✓ Contributing to meaningful projects
+▸ Building practical software solutions
+▸ Learning advanced backend engineering
+▸ Exploring Artificial Intelligence
+▸ Strengthening cloud computing concepts
+▸ Contributing to impactful projects
 ```
 
 ---
 
-## 💭 Philosophy
+## 💭 Developer Mindset
 
-> "Great software is built not only to function, but to solve problems elegantly and efficiently."
+> "Technology is best when it empowers people and solves meaningful problems."
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nithishwar-t-b153b2299/?skipRedirect=true)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:thirunithishwar@gmail.com)
+<a href="https://www.linkedin.com/in/nithishwar-t-b153b2299/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
 <div align="center">
 
-### 🚀 Learn • Build • Share • Repeat
+### 🚀 Learn • Build • Improve • Repeat
+
+*"Every expert was once a beginner who refused to quit."*
 
 </div>
