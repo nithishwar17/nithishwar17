@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey there 👋, I'm Nithishwar
+# Hey 👋, I'm Nithishwar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Continuous+Learner;Building+Projects+That+Matter" alt="Typing SVG" />
+### Software Developer • Problem Solver • Lifelong Learner
+
+> Building technology that creates real-world impact.
 
 </div>
 
@@ -10,98 +12,72 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who enjoys transforming ideas into practical solutions.
+I'm a passionate software developer who enjoys transforming ideas into reliable and scalable solutions.
 
-- 💻 Building scalable and user-friendly applications
-- 🌱 Continuously learning new technologies
-- 🔍 Interested in Software Engineering, Cloud, and AI
-- 🤝 Open to collaboration on meaningful projects
-- 🎯 Focused on writing clean, maintainable code
+- 💻 Passionate about software development and innovation
+- 🌱 Continuously learning and improving my technical skills
+- 🔍 Exploring Cloud Computing, Artificial Intelligence, and Modern Web Technologies
+- 🤝 Open to collaboration on impactful projects
+- 🎯 Focused on clean code, performance, and user experience
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Current Focus
 
-### 🔹 Project Name
-> Short description of what the project does and why it matters.
-
-**Tech Used:** React, Node.js, MySQL
-
-### 🔹 Project Name
-> Short description of the project and key features.
-
-**Tech Used:** Python, Flask
-
-### 🔹 Project Name
-> Describe the impact or problem solved.
-
-**Tech Used:** JavaScript, APIs
+```text
+✓ Building practical software solutions
+✓ Learning advanced backend development
+✓ Exploring AI-powered applications
+✓ Improving system design skills
+✓ Contributing to meaningful projects
+```
 
 ---
 
-## 📈 GitHub Analytics
+## 💭 Philosophy
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-- Build impactful real-world applications
-- Strengthen system design skills
-- Contribute to open source
-- Explore AI and Cloud technologies
-- Grow as a full-stack developer
-
----
-
-## 💡 Developer Philosophy
-
-> "Code is not just about making things work; it's about making them understandable, scalable, and useful."
+> "Great software is built not only to function, but to solve problems elegantly and efficiently."
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nithishwar-t-b153b2299/?skipRedirect=true)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:thirunithishwar@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Building. Learning. Improving. Repeating.
+### 🚀 Learn • Build • Share • Repeat
 
 </div>
