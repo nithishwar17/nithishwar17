@@ -73,7 +73,7 @@ I'm **Nithishwar**, a developer passionate about building meaningful digital exp
 <a href="https://www.linkedin.com/in/nithishwar-t-b153b2299/">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:nithishwar@gmail.com">
+<a href="mailto:thirunithishwar@gmail.com">
   <img src="https://img.shields.io/badge/Email-nithishwar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
