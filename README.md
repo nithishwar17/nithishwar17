@@ -14,11 +14,11 @@
 
 I'm **Nithishwar**, a developer passionate about building meaningful digital experiences and solving real-world problems through technology.
 
-- 🚀 Creating scalable and efficient software solutions
-- 🌱 Continuously expanding my knowledge and skills
-- 💡 Interested in Full-Stack Development, AI, and Cloud Computing
-- 🤝 Open to collaboration and innovative projects
-- 🎯 Focused on clean architecture and maintainable code
+* 🚀 Creating scalable and efficient software solutions
+* 🌱 Continuously expanding my knowledge and skills
+* 💡 Interested in Full-Stack Development, AI, and Cloud Computing
+* 🤝 Open to collaboration and innovative projects
+* 🎯 Focused on clean architecture and maintainable code
 
 ---
 
@@ -73,11 +73,12 @@ I'm **Nithishwar**, a developer passionate about building meaningful digital exp
 <a href="https://www.linkedin.com/in/nithishwar-t-b153b2299/">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:thirunithishwar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nithishwar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-thirunithishwar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[https://nithishwar.vercel.app](https://portfolio-kappa-nine-ld3427uk2g.vercel.app/)">
+<a href="https://portfolio-kappa-nine-ld3427uk2g.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
